@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/res/merged/debug/raw/example.docx",
+        "source": "/Users/umshaik/Documents/android-StorageProvider/Application/src/main/res/raw/example.docx"
+    },
+    {
+        "merged": "/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/res/merged/debug/raw/android_computer_android_studio.jpg",
+        "source": "/Users/umshaik/Documents/android-StorageProvider/Application/src/main/res/raw/android_computer_android_studio.jpg"
+    },
+    {
+        "merged": "/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/res/merged/debug/raw/android_computer_back.jpg",
+        "source": "/Users/umshaik/Documents/android-StorageProvider/Application/src/main/res/raw/android_computer_back.jpg"
+    },
+    {
+        "merged": "/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/res/merged/debug/raw/android_pumpkins_fall.jpg",
+        "source": "/Users/umshaik/Documents/android-StorageProvider/Application/src/main/res/raw/android_pumpkins_fall.jpg"
+    },
+    {
+        "merged": "/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/res/merged/debug/raw/android_rose.jpg",
+        "source": "/Users/umshaik/Documents/android-StorageProvider/Application/src/main/res/raw/android_rose.jpg"
+    },
+    {
+        "merged": "/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/res/merged/debug/raw/android_dinner.jpg",
+        "source": "/Users/umshaik/Documents/android-StorageProvider/Application/src/main/res/raw/android_dinner.jpg"
+    },
+    {
+        "merged": "/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/res/merged/debug/raw/cat_names.txt",
+        "source": "/Users/umshaik/Documents/android-StorageProvider/Application/src/main/res/raw/cat_names.txt"
+    },
+    {
+        "merged": "/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/res/merged/debug/raw/dog_names.txt",
+        "source": "/Users/umshaik/Documents/android-StorageProvider/Application/src/main/res/raw/dog_names.txt"
+    }
+]

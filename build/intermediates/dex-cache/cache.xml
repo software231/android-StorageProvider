@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_5c6c16a5f5ab5921b6ef8aaec800b3fa6af74575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_66f467f00c0a81a62ed7c13cf1379f6961b0676b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_09d59c1ecd74e6d8e89341b9c17debc9836ba4ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_5a41fedd56e6c3f18bb50cfbde6973bf1caae538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6822c46f2289800fbb7745d534f8b22b952a3906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.0.1_02d0700a932a38e04680d787cbf36d321116dc60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_b070742c12ea110f3ddca81fe3285e1f21c9d285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_d71bd02650a2957ce5f8029b96449418bdb97bae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_1461aeede48e022d85915a143a19fd6d85dfc14e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_99e8f40e40cdbf9d0fe564262365e27032acc59c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_1dca1f5b9db2adaee7d17e895327bc1107aaca5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_60fc3ea24e84cc7b77621ebcafd7f4f51d94c5a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0b3215cbf0bcc2bc40f231980a60615db072b62c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_9cecec87849392f3e3c4e7a3e3d0ef3175323374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_03d56ef8697c8e9fdbe6d6ff08a2e2c024d4419f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0b0b38ae3b837c6b0a06d5128862cfdbb5424247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_a0a223dd2a4e2ad6d2454f665a80f4bde6c65a24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/umshaik/Documents/android-StorageProvider/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_26584f25a164d05074bf0c8bf04efdfe939bdb46.jar" />
+    </item>
+
+</items>
